@@ -26,7 +26,31 @@
 
 A **terminal-based Windows 11 optimizer** that slaps your registry into shape. No electron app. No 200MB installer. No "sign up for our newsletter." Just a single 593KB binary that runs in your terminal and makes Windows feel like it actually wants to be used.
 
-**Built for people whose PC sounds like a jet engine just opening Task Manager.**
+### Symptoms you might recognize:
+
+- **Opening Task Manager takes 10 seconds** and your fans go full throttle
+- **Chrome with 2 tabs = 8GB RAM used** and your PC sounds like it's about to take off
+- **Right-click context menu** has more items than your grocery list
+- **Windows boots** slower than your grandma's dial-up connection
+- **Start menu suggestions** and ads while your PC is already choking
+- **Game DVR recording** your desktop at 1fps while you're trying to game
+- **Telemetry running** in the background collecting data about how slow your PC is
+- **VBS/HVCI eating 20% of your CPU** for "security" you didn't ask for
+- **Fast Startup** that's neither fast nor startup
+
+### This tool fixes all of that.
+
+**74 registry tweaks** across 8 categories. One keypress to apply everything. One keypress to revert. No reboot loops. No "optimization suites" that install more bloat. Just you, the terminal, and your potato PC finally breathing again.
+
+### Why terminal?
+
+Because GUIs are what made your PC slow in the first place.
+
+### But seriously...
+
+Your $300 laptop from 2019 shouldn't need 16GB of RAM just to run Windows 11. Microsoft turned your PC into a telemetry farm with a Start menu. This tool fights back. Every tweak is documented, reversible, and leaves your system cleaner than Windows Update ever could.
+
+**If your PC meets the minimum specs for Windows 11 but still feels like a potato -- this is the tool for you.**
 
 ---
 
