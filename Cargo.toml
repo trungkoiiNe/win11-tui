@@ -1,0 +1,12 @@
+[package]
+name = "win11-tui"
+version = "0.1.0"
+edition = "2021"
+description = "Windows 11 Registry Optimization TUI"
+
+[dependencies]
+ratatui = "0.29"
+crossterm = { version = "0.28", features = ["event-stream"] }
+tokio = { version = "1", features = ["full"] }
+winreg = "0.52"
+anyhow = "1"
