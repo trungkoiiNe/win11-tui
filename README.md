@@ -100,7 +100,7 @@ Your $300 laptop from 2019 shouldn't need 16GB of RAM just to run Windows 11. Mi
 ### Build & Run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/win11-tui.git
+git clone https://github.com/trungkoiiNe/win11-tui.git
 cd win11-tui
 cargo build --release
 
